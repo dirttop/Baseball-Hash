@@ -1,0 +1,20 @@
+{
+  "files": {
+    "allgames.txt": [
+      {
+        "id": "eef6e459-1def-4a8d-898e-ee5e618d550b",
+        "line": 183478,
+        "version": 1,
+        "index": 4612505
+      }
+    ],
+    "main.py": [
+      {
+        "id": "542d3cf4-01eb-4de5-9e73-8aed1092890c",
+        "line": 84,
+        "version": 4746,
+        "index": 2325
+      }
+    ]
+  }
+}
